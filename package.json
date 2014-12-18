@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "html-entities": "^1.0.10",
+    "request": "^2.34.0",
+    "wobot": "^0.8.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
